@@ -1,0 +1,167 @@
+[
+  {
+    "id": "ark",
+    "name": "ARK: Survival Ascended",
+    "genre": "Hayatta kalma",
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2399830/header.jpg",
+    "store": "https://store.steampowered.com/app/2399830/ARK_Survival_Ascended/",
+    "description": "Gizemli bir adada uyan. Kaynak topla, barınak kur, dinozorları evcilleştir ve tek başına ya da arkadaşlarınla hayatta kal. Yenilenen görselleri ve tehlikeli keşif alanlarıyla macerana yön ver.",
+    "tags": "Hayatta kalma, açık dünya",
+    "modes": "Tek oyunculu ve çevrimiçi",
+    "notes": "Güçlü bir bilgisayar önerilir."
+  },
+  {
+    "id": "palworld",
+    "name": "Palworld",
+    "genre": "Hayatta kalma",
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1623730/header.jpg",
+    "store": "https://store.steampowered.com/app/1623730/Palworld/",
+    "description": "Pal adı verilen sıra dışı canlılarla dolu bir dünyayı keşfet. Canlıları yakala, üs kur, üretim yap ve tehlikeli bölgelerde mücadele et.",
+    "tags": "Hayatta kalma, macera",
+    "modes": "Tek oyunculu ve çevrimiçi",
+    "notes": "İşletim sistemi ve donanım gereksinimlerini mağaza sayfasından kontrol et."
+  },
+  {
+    "id": "minecraft",
+    "name": "Minecraft",
+    "genre": "Kum havuzu",
+    "image": "https://images.unsplash.com/photo-1607513746994-51f730a44832?auto=format&fit=crop&w=900&q=80",
+    "store": "https://www.minecraft.net/",
+    "description": "Bloklardan oluşan sınırsız bir dünyada inşa et, keşfet ve hayatta kal. Kendi evini kurabilir, madenlere inebilir veya arkadaşlarınla yeni dünyalar oluşturabilirsin.",
+    "tags": "Yaratıcılık, hayatta kalma",
+    "modes": "Tek oyunculu ve çok oyunculu",
+    "notes": "Sürüme göre değişir; resmî sayfayı incele."
+  },
+  {
+    "id": "gta5",
+    "name": "Grand Theft Auto V",
+    "genre": "Açık dünya",
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/271590/header.jpg",
+    "store": "https://store.steampowered.com/app/271590/Grand_Theft_Auto_V/",
+    "description": "Los Santos şehrinde üç farklı karakterin hikâyesine katıl. Büyük şehirde görevler yap, araçları keşfet ve geniş açık dünyada kendi rotanı çiz.",
+    "tags": "Açık dünya, aksiyon",
+    "modes": "Tek oyunculu ve çevrimiçi bileşenler",
+    "notes": "Donanım ve yaş sınırlamalarını mağazada kontrol et."
+  },
+  {
+    "id": "cs2",
+    "name": "Counter-Strike 2",
+    "genre": "Nişancı",
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/730/header.jpg",
+    "store": "https://store.steampowered.com/app/730/CounterStrike_2/",
+    "description": "Takım çalışması, taktik ve hassas nişan almanın öne çıktığı rekabetçi bir birinci şahıs nişancı oyunu. Raundlarda takımına destek ol ve hedefleri tamamla.",
+    "tags": "Rekabetçi nişancı",
+    "modes": "Çevrimiçi",
+    "notes": "Çevrimiçi bağlantı gerekir."
+  },
+  {
+    "id": "rust",
+    "name": "Rust",
+    "genre": "Hayatta kalma",
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/252490/header.jpg",
+    "store": "https://store.steampowered.com/app/252490/Rust/",
+    "description": "Sahilde neredeyse hiçbir şeyin olmadan başla. Kaynak topla, eşya üret, barınak inşa et ve diğer oyuncuların oluşturduğu tehlikelere karşı dikkatli ol.",
+    "tags": "Hayatta kalma, çok oyunculu",
+    "modes": "Çevrimiçi",
+    "notes": "Çevrimiçi sunucu bağlantısı gerekir."
+  },
+  {
+    "id": "theforest",
+    "name": "The Forest",
+    "genre": "Korku",
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/242760/header.jpg",
+    "store": "https://store.steampowered.com/app/242760/The_Forest/",
+    "description": "Uçak kazasından sonra gizemli bir ormanda hayatta kalmaya çalış. Kayıp oğlunu ararken barınak kur, kaynak topla ve ormanın karanlık sırlarını ortaya çıkar.",
+    "tags": "Korku, hayatta kalma",
+    "modes": "Tek oyunculu ve eşli oyun",
+    "notes": "Korku ve gerilim öğeleri içerir."
+  },
+  {
+    "id": "forza5",
+    "name": "Forza Horizon 5",
+    "genre": "Yarış",
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1551360/header.jpg",
+    "store": "https://store.steampowered.com/app/1551360/Forza_Horizon_5/",
+    "description": "Meksika manzaralarında yüzlerce araçla yarış. Etkinliklere katıl, araçlarını kişiselleştir ve farklı arazi koşullarında sürüş becerilerini geliştir.",
+    "tags": "Yarış, açık dünya",
+    "modes": "Tek oyunculu ve çevrimiçi",
+    "notes": "Direksiyon ve kontrolcü desteği sürüme göre değişebilir."
+  },
+  {
+    "id": "pubg",
+    "name": "PUBG: Battlegrounds",
+    "genre": "Nişancı",
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/578080/header.jpg",
+    "store": "https://store.steampowered.com/app/578080/PUBG_BATTLEGROUNDS/",
+    "description": "Geniş bir haritaya in, ekipmanını topla ve giderek daralan güvenli alanda hayatta kal. Tek başına veya takımınla son kalan olmaya çalış.",
+    "tags": "Hayatta kalma, nişancı",
+    "modes": "Çevrimiçi",
+    "notes": "Çevrimiçi bağlantı gerekir."
+  },
+  {
+    "id": "sonsforest",
+    "name": "Sons Of The Forest",
+    "genre": "Korku",
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1326470/header.jpg",
+    "store": "https://store.steampowered.com/app/1326470/Sons_Of_The_Forest/",
+    "description": "Kayıp bir milyarderi aramak için uzak bir adaya gönderil. Kaynak topla, üs kur ve tehditlerle dolu ormanda hayatta kalmanın yolunu bul.",
+    "tags": "Korku, hayatta kalma",
+    "modes": "Tek oyunculu ve eşli oyun",
+    "notes": "Korku ve şiddet öğeleri içerir."
+  },
+  {
+    "id": "subnautica",
+    "name": "Subnautica",
+    "genre": "Keşif",
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/264710/header.jpg",
+    "store": "https://store.steampowered.com/app/264710/Subnautica/",
+    "description": "Okyanuslarla kaplı yabancı bir gezegene düş. Derinlikleri keşfet, ekipman üret, deniz canlılarını incele ve eve dönmek için gerekenleri bul.",
+    "tags": "Keşif, hayatta kalma",
+    "modes": "Tek oyunculu",
+    "notes": "Derin deniz ve gerilim temaları içerir."
+  },
+  {
+    "id": "eldenring",
+    "name": "ELDEN RING",
+    "genre": "Rol yapma",
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1245620/header.jpg",
+    "store": "https://store.steampowered.com/app/1245620/ELDEN_RING/",
+    "description": "Geniş ve gizemli Topraklar Arasında yolculuğa çık. Zorlu düşmanlarla savaş, karakterini geliştir ve kadim dünyanın sırlarını keşfet.",
+    "tags": "Aksiyon, rol yapma",
+    "modes": "Tek oyunculu ve çevrimiçi özellikler",
+    "notes": "Zorlu mücadeleler ve fantastik şiddet içerir."
+  },
+  {
+    "id": "cyberpunk",
+    "name": "Cyberpunk 2077",
+    "genre": "Rol yapma",
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1091500/header.jpg",
+    "store": "https://store.steampowered.com/app/1091500/Cyberpunk_2077/",
+    "description": "Geleceğin devasa şehri Night City’de kendi yolunu çiz. V adlı paralı askeri geliştir, görevler üstlen ve seçimlerinin hikâyeye etkisini gör.",
+    "tags": "Rol yapma, açık dünya",
+    "modes": "Tek oyunculu",
+    "notes": "Yetişkinlere yönelik içerik barındırabilir."
+  },
+  {
+    "id": "rdr2",
+    "name": "Red Dead Redemption 2",
+    "genre": "Açık dünya",
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1174180/header.jpg",
+    "store": "https://store.steampowered.com/app/1174180/Red_Dead_Redemption_2/",
+    "description": "Vahşi Batı’nın son döneminde Arthur Morgan ve çetesinin hikâyesine katıl. Kasabaları, doğayı ve görevlerle dolu geniş dünyayı keşfet.",
+    "tags": "Aksiyon, macera",
+    "modes": "Tek oyunculu ve çevrimiçi bileşenler",
+    "notes": "Yetişkinlere yönelik içerik barındırabilir."
+  },
+  {
+    "id": "terraria",
+    "name": "Terraria",
+    "genre": "Kum havuzu",
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/105600/header.jpg",
+    "store": "https://store.steampowered.com/app/105600/Terraria/",
+    "description": "Kaz, savaş, keşfet ve inşa et. Her köşesinde yeni kaynaklar, yaratıklar ve sırlar bulunan iki boyutlu bir dünyada kendi maceranı oluştur.",
+    "tags": "Macera, üretim",
+    "modes": "Tek oyunculu ve çok oyunculu",
+    "notes": "Görece mütevazı sistem gereksinimleri; mağazayı kontrol et."
+  }
+]
