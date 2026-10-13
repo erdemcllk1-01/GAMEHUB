@@ -5,7 +5,7 @@
   "description": "Türkçe oyun keşif platformu ve kullanıcı üyelik sistemi",
   "main": "server.js",
   "scripts": { "start": "node server.js", "dev": "node server.js" },
-  "engines": { "node": ">=20" },
+  "engines": { "node": "22.x"
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "better-sqlite3": "^11.8.1",
